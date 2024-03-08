@@ -24,6 +24,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 20px;
+    box-shadow: 20 20 10px rgba(0, 20, 0, 0.1)
 }
 
 .nav {
